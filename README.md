@@ -1,5 +1,15 @@
 # project
 
+**PROJE AÇIKLAMALARI BURAYA**
 
+## Schemes
+![Image](https://github.com/Geospatil-Asset-Management/project/blob/main/templates/images/schema/scheme_last.png)
 
-PROJE AÇIKLAMASI BURAYA
+## Required Python Libraries
+- django
+- geodjango 
+- django extensions
+- django-scheme-grap
+- django-dia
+- geojson
+
